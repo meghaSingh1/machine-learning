@@ -1,1 +1,1 @@
-# machine-learning-workshop-assignments
+# machine-learning
